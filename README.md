@@ -87,4 +87,4 @@ The videos promoted the radio station and its programs through a variety of them
 
 **Software**: Adobe Illustrator, Adobe Premiere Pro, Adobe Premiere, After Effects
 
-**[Click here to open the link]([https://youtube.com/playlist?list=PLGtIoeT53LZfY8Wl6olkbI8QxyFacz2PC&si=3JV4MjU8T1qOi4kQ](https://youtube.com/playlist?list=PL7877qMnHVT3A1v1t2I_7AHUPQ0tatxrb&si=kAhx-PD8VFntNl9R))**
+**[Click here to open the link](https://youtube.com/playlist?list=PL7877qMnHVT3A1v1t2I_7AHUPQ0tatxrb&si=FwtLIkm_N4xsMjlD)**
