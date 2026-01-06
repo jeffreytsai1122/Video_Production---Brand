@@ -37,6 +37,20 @@ ____
 (This branding video was actually used in the store and the social media account)
 
 ____
+# Video Title: Brand Promotion Film - ｜Nombolo｜ User-side Promotion Video & Business-side Promotion Video
+**Type**: Brand Promotion Film
+
+**Description**: Nombolo is a startup social media platform designed to connect local businesses with the surrounding community, helping users easily discover great places to eat and relax nearby. When producing the brand promotion video, the storytelling was developed from two perspectives: partner businesses and general users.
+
+Different from other APP's promotion video that relying on the typical app-demo approach focuses solely on on-screen UI walkthroughs and voiceover explanations, the video illustrates how Nombolo naturally fits into users’ everyday lives and delivers real value through relatable usage scenarios. The visual narrative is presented using animated elements created in Adobe After Effects, paired with light, upbeat music to create an engaging and approachable brand tone.
+
+**Responsibilities**: Script planning, Storyboard, Post-production
+
+**Software**: Adobe Premiere Pro, After Effects
+
+**The link cannot be shared because the video has not been published yet and is subject to a confidentiality agreement (NDA)**
+
+____
 # Video Title: Brand Promotion Film - ｜MOLLIFIX｜ Brand Ambassador Jia Yongjie (Fall/Winter New Collection)
 **Type**: Brand Promotion Film
 
