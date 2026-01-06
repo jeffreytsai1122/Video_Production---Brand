@@ -77,7 +77,7 @@ ____
 **[Click here to open the link](https://youtube.com/playlist?list=PLGtIoeT53LZfY8Wl6olkbI8QxyFacz2PC&si=3JV4MjU8T1qOi4kQ)**
 
 ____
-# Video Title: Brand Promotion Film Series - VOice of FJU
+# Video Title: Brand Promotion Film Series - Voice of FJU
 **Type**: Brand Promotion Film Series
 
 **Description**: These works were produced during my time in college while serving as a Program Department Manager and a Marketing & Promotion Intern at the university radio station (content in Chinese). 
