@@ -75,3 +75,16 @@ ____
 (This video is part of an integrated marketing communication (IMC) campaign for the ezTravel brand.)
 
 **[Click here to open the link](https://youtube.com/playlist?list=PLGtIoeT53LZfY8Wl6olkbI8QxyFacz2PC&si=3JV4MjU8T1qOi4kQ)**
+
+____
+# Video Title: Brand Promotion Film Series - VOice of FJU
+**Type**: Brand Promotion Film Series
+
+**Description**: These works were produced during my time in college while serving as a Program Department Manager and a Marketing & Promotion Intern at the university radio station (content in Chinese). 
+The videos promoted the radio station and its programs through a variety of themes and creative formats, and also included the filming and production of event recap videos.
+
+**Responsibilities**: Program planning, Script planning, Filming, Post-production
+
+**Software**: Adobe Illustrator, Adobe Premiere Pro, Adobe Premiere, After Effects
+
+**[Click here to open the link]([https://youtube.com/playlist?list=PLGtIoeT53LZfY8Wl6olkbI8QxyFacz2PC&si=3JV4MjU8T1qOi4kQ](https://youtube.com/playlist?list=PL7877qMnHVT3A1v1t2I_7AHUPQ0tatxrb&si=kAhx-PD8VFntNl9R))**
