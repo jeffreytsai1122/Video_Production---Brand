@@ -1,3 +1,15 @@
+# Video Title: AI Animated Cartoon – Self-produced
+**Type**: Self-produced AI Animated Cartoon
+
+**Description**: Originally created as a birthday video for my girlfriend. I developed the overall storyline and script, then used AI prompting to generate cartoon characters representing both of us, along with the scenes, animations, character dialogue, and background music. After generating the core assets with AI tools, I completed the post-production process in Adobe Premiere Pro and After Effects, refining timing, visual details, transitions, and overall narrative flow to create a polished animated video.
+
+**Responsibilities**: Script planning, Character generation, Scene generation, Animation production
+
+**Software**: AI Tools (Gemini Nano Banana Pro, Midjourney, Freepik, ElevenLabs, Suno, Google AI Studio), Adobe Illustrator, After Effects
+
+**[Click here to open the link](https://drive.google.com/file/d/1JH-ZyH1aAc0at_sFqd8HzT4Rq_vtxv5T/view?usp=sharing)**
+
+＿＿＿
 # Video Title: Brand Logo Animation – Outdoor Lifestyle
 **Type**: Brand Logo Animation
 
