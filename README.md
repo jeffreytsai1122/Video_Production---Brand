@@ -9,7 +9,7 @@
 
 **[Click here to open the link](https://drive.google.com/file/d/1JH-ZyH1aAc0at_sFqd8HzT4Rq_vtxv5T/view?usp=sharing)**
 
-＿＿＿
+____
 # Video Title: Brand Logo Animation – Outdoor Lifestyle
 **Type**: Brand Logo Animation
 
@@ -22,7 +22,7 @@
 **[Click here to open the link](https://drive.google.com/file/d/1ToALbOSefTOcZZ_xtug1wftiGp-KWW32/view?usp=sharing)**
 (This is a personal practice project featuring a fictional brand.)
 
-＿＿＿
+____
 # Video Title: Brand Logo Animation – Dragon Flame
 **Type**: Brand Logo Animation
 
